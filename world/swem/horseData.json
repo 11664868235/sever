@@ -1,0 +1,56 @@
+{
+  "horseData": {
+    "6465af09-eb7f-48a0-9d3d-626ee9472245": {
+      "horseId": "6465af09-eb7f-48a0-9d3d-626ee9472245",
+      "horseName": "SWEM Horse",
+      "ownerId": "167bafdb-b745-48e3-a39a-313057f98e56",
+      "ownerName": "LeoQQ2022",
+      "dimension": "minecraft:overworld",
+      "position": {
+        "f_82479_": 19.649467166939118,
+        "f_82480_": 67.0,
+        "f_82481_": 302.80000001192093
+      },
+      "isDead": false,
+      "inventoryData": {"Inventory":[{"Item":{"id":"minecraft:air","Count":0},"Slot":0},{"Item":{"id":"swem:adventure_blanket","Count":1},"Slot":1},{"Item":{"id":"swem:adventure_saddle","Count":1},"Slot":2},{"Item":{"id":"swem:adventure_breast_collar","Count":1},"Slot":3},{"Item":{"id":"swem:adventure_leg_wraps","Count":1},"Slot":4},{"Item":{"id":"swem:adventure_girth_strap","Count":1},"Slot":5},{"Item":{"id":"swem:horse_armor_gold","Count":1},"Slot":6},{"Item":{"id":"swem:saddle_bag_gray","Count":1,"tag":{}},"Slot":7}]},
+      "saddlebagData": {"Inventory":[{"Item":{"id":"minecraft:air","Count":0},"Slot":0},{"Item":{"id":"minecraft:air","Count":0},"Slot":1},{"Item":{"id":"minecraft:air","Count":0},"Slot":2},{"Item":{"id":"minecraft:air","Count":0},"Slot":3},{"Item":{"id":"minecraft:air","Count":0},"Slot":4},{"Item":{"id":"minecraft:air","Count":0},"Slot":5},{"Item":{"id":"minecraft:air","Count":0},"Slot":6},{"Item":{"id":"minecraft:air","Count":0},"Slot":7},{"Item":{"id":"minecraft:air","Count":0},"Slot":8},{"Item":{"id":"minecraft:air","Count":0},"Slot":9},{"Item":{"id":"minecraft:air","Count":0},"Slot":10},{"Item":{"id":"minecraft:air","Count":0},"Slot":11},{"Item":{"id":"minecraft:air","Count":0},"Slot":12},{"Item":{"id":"minecraft:air","Count":0},"Slot":13},{"Item":{"id":"minecraft:air","Count":0},"Slot":14},{"Item":{"id":"minecraft:air","Count":0},"Slot":15},{"Item":{"id":"minecraft:air","Count":0},"Slot":16},{"Item":{"id":"minecraft:air","Count":0},"Slot":17},{"Item":{"id":"minecraft:air","Count":0},"Slot":18},{"Item":{"id":"minecraft:air","Count":0},"Slot":19},{"Item":{"id":"minecraft:air","Count":0},"Slot":20},{"Item":{"id":"minecraft:air","Count":0},"Slot":21},{"Item":{"id":"minecraft:air","Count":0},"Slot":22},{"Item":{"id":"minecraft:air","Count":0},"Slot":23},{"Item":{"id":"minecraft:air","Count":0},"Slot":24},{"Item":{"id":"minecraft:air","Count":0},"Slot":25},{"Item":{"id":"minecraft:air","Count":0},"Slot":26},{"Item":{"id":"minecraft:air","Count":0},"Slot":27},{"Item":{"id":"minecraft:air","Count":0},"Slot":28},{"Item":{"id":"minecraft:air","Count":0},"Slot":29},{"Item":{"id":"minecraft:air","Count":0},"Slot":30}]},
+      "progressionData": {"JumpLevel":4,"SpeedLevel":4,"AffinityXP":277.24414,"AffinityLevel":11,"daysSwiped":[0,0,0,0,0],"HealthLevel":4,"JumpXP":600.0,"HealthXP":16.0,"desensiztingItem":{"id":"minecraft:air","Count":0},"SpeedXP":67.74707,"currentSwipes":0},
+      "genderData": {"TotalOffsprings":1,"Female":0,"Infertile":0,"InLoveTimer":0,"BreedCooldown":0},
+      "lineageData": {"Data":{"Offsprings":[[-825539331,-1920512140,-1982952841,-1811466407]]}}
+    },
+    "cecb44fd-8d87-4f74-89ce-8a7794073759": {
+      "horseId": "cecb44fd-8d87-4f74-89ce-8a7794073759",
+      "horseName": "SWEM Horse",
+      "ownerId": "167bafdb-b745-48e3-a39a-313057f98e56",
+      "ownerName": "LeoQQ2022",
+      "dimension": "minecraft:overworld",
+      "position": {
+        "f_82479_": 17.798994382392287,
+        "f_82480_": 67.0,
+        "f_82481_": 305.01249998807907
+      },
+      "isDead": false,
+      "inventoryData": {"Inventory":[{"Item":{"id":"minecraft:air","Count":0},"Slot":0},{"Item":{"id":"swem:adventure_blanket","Count":1},"Slot":1},{"Item":{"id":"swem:adventure_saddle_netherite","Count":1},"Slot":2},{"Item":{"id":"minecraft:air","Count":0},"Slot":3},{"Item":{"id":"swem:adventure_leg_wraps","Count":1},"Slot":4},{"Item":{"id":"minecraft:air","Count":0},"Slot":5},{"Item":{"id":"minecraft:air","Count":0},"Slot":6},{"Item":{"id":"minecraft:air","Count":0},"Slot":7}]},
+      "progressionData": {"JumpLevel":0,"SpeedLevel":0,"AffinityXP":0.0,"AffinityLevel":1,"daysSwiped":[0,0,0,0,0],"HealthLevel":0,"JumpXP":0.0,"HealthXP":112.0,"desensiztingItem":{"id":"minecraft:air","Count":0},"SpeedXP":0.0,"currentSwipes":0},
+      "genderData": {"TotalOffsprings":0,"Female":0,"Infertile":0,"InLoveTimer":23302,"BreedCooldown":0},
+      "lineageData": {"Data":{"Dam":[-641753098,-1231992161,-1690442979,70788186],"Sire":[1684385545,-343979872,-1656921490,-381214139],"Offsprings":[]}}
+    },
+    "d9bf9ff6-b691-4a9f-9b3d-e31d0438245a": {
+      "horseId": "d9bf9ff6-b691-4a9f-9b3d-e31d0438245a",
+      "horseName": "SWEM Horse",
+      "ownerId": "167bafdb-b745-48e3-a39a-313057f98e56",
+      "ownerName": "LeoQQ2022",
+      "dimension": "minecraft:overworld",
+      "position": {
+        "f_82479_": 26.57499998807907,
+        "f_82480_": 67.0,
+        "f_82481_": 305.01249998807907
+      },
+      "isDead": false,
+      "inventoryData": {"Inventory":[{"Item":{"id":"swem:adventure_bridle","Count":1},"Slot":0},{"Item":{"id":"swem:adventure_blanket","Count":1},"Slot":1},{"Item":{"id":"swem:adventure_saddle","Count":1},"Slot":2},{"Item":{"id":"swem:adventure_breast_collar","Count":1},"Slot":3},{"Item":{"id":"swem:adventure_leg_wraps","Count":1},"Slot":4},{"Item":{"id":"swem:adventure_girth_strap","Count":1},"Slot":5},{"Item":{"id":"swem:horse_armor_iron","Count":1},"Slot":6},{"Item":{"id":"minecraft:air","Count":0},"Slot":7}]},
+      "progressionData": {"JumpLevel":4,"SpeedLevel":4,"AffinityXP":13123.71,"AffinityLevel":9,"daysSwiped":[0,0,0,0,0],"HealthLevel":4,"JumpXP":600.0,"HealthXP":112.0,"desensiztingItem":{"id":"minecraft:air","Count":0},"SpeedXP":0.0,"currentSwipes":0},
+      "genderData": {"GestationTimer":0,"Pregnant":0,"Foals":[],"TotalOffsprings":1,"Female":1,"Infertile":0,"InLoveTimer":0,"BreedCooldown":12917},
+      "lineageData": {"Data":{"Offsprings":[[-825539331,-1920512140,-1982952841,-1811466407]]}}
+    }
+  }
+}
